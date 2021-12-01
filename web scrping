@@ -1,0 +1,26 @@
+from bs4 import BeautifulSoup
+import json 
+import requests
+import pprint
+def name(link):
+    adventure_url=link
+    # print(adventure_url)
+    adventure_api=requests.get(adventure_url)
+    # print(adventure_api)
+    htmlcontent = adventure_api.content
+    # print(htmlcontent )
+    soup = BeautifulSoup(htmlcontent,"html.parser")
+    # print(soup)
+    list=[] 
+    cast_div=soup.find("div",class_="castSection")
+    a2=cast_div.find_all("div",recursive=False)
+    for i in a2:
+        a1=i.find("div",class_="media-body")
+        list.append(a1.a.span.get_text().strip())
+    # print(list)
+    with open("task12.json","w") as f:
+        json.dump(list,f,indent=2)
+    return list
+name("https://www.rottentomatoes.com/m/black_panther_2018")
+
+
