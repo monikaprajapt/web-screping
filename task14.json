@@ -1,0 +1,152 @@
+{
+    "Chadwick Boseman": [
+        "Michael B. Jordan",
+        "Lupita Nyong'o",
+        "Danai Gurira",
+        "Martin Freeman"
+    ],
+    "Michael B. Jordan": [
+        "Chadwick Boseman",
+        "Lupita Nyong'o",
+        "Danai Gurira",
+        "Martin Freeman"
+    ],
+    "Lupita Nyong'o": [
+        "Chadwick Boseman",
+        "Michael B. Jordan",
+        "Danai Gurira",
+        "Martin Freeman"
+    ],
+    "Danai Gurira": [
+        "Chadwick Boseman",
+        "Michael B. Jordan",
+        "Lupita Nyong'o",
+        "Martin Freeman"
+    ],
+    "Martin Freeman": [
+        "Chadwick Boseman",
+        "Michael B. Jordan",
+        "Lupita Nyong'o",
+        "Danai Gurira"
+    ],
+    "Robert Downey Jr.": [
+        "Chris Evans",
+        "Mark Ruffalo",
+        "Chris Hemsworth",
+        "Scarlett Johansson"
+    ],
+    "Chris Evans": [
+        "Robert Downey Jr.",
+        "Mark Ruffalo",
+        "Chris Hemsworth",
+        "Scarlett Johansson"
+    ],
+    "Mark Ruffalo": [
+        "Robert Downey Jr.",
+        "Chris Evans",
+        "Chris Hemsworth",
+        "Scarlett Johansson"
+    ],
+    "Chris Hemsworth": [
+        "Robert Downey Jr.",
+        "Chris Evans",
+        "Mark Ruffalo",
+        "Scarlett Johansson"
+    ],
+    "Scarlett Johansson": [
+        "Robert Downey Jr.",
+        "Chris Evans",
+        "Mark Ruffalo",
+        "Chris Hemsworth"
+    ],
+    "Tom Cruise": [
+        "Henry Cavill",
+        "Ving Rhames",
+        "Simon Pegg",
+        "Rebecca Ferguson"
+    ],
+    "Henry Cavill": [
+        "Tom Cruise",
+        "Ving Rhames",
+        "Simon Pegg",
+        "Rebecca Ferguson"
+    ],
+    "Ving Rhames": [
+        "Tom Cruise",
+        "Henry Cavill",
+        "Simon Pegg",
+        "Rebecca Ferguson"
+    ],
+    "Simon Pegg": [
+        "Tom Cruise",
+        "Henry Cavill",
+        "Ving Rhames",
+        "Rebecca Ferguson"
+    ],
+    "Rebecca Ferguson": [
+        "Tom Cruise",
+        "Henry Cavill",
+        "Ving Rhames",
+        "Simon Pegg"
+    ],
+    "Tom Hardy": [
+        "Charlize Theron",
+        "Nicholas Hoult",
+        "Hugh Keays-Byrne",
+        "Josh Helman"
+    ],
+    "Charlize Theron": [
+        "Tom Hardy",
+        "Nicholas Hoult",
+        "Hugh Keays-Byrne",
+        "Josh Helman"
+    ],
+    "Nicholas Hoult": [
+        "Tom Hardy",
+        "Charlize Theron",
+        "Hugh Keays-Byrne",
+        "Josh Helman"
+    ],
+    "Hugh Keays-Byrne": [
+        "Tom Hardy",
+        "Charlize Theron",
+        "Nicholas Hoult",
+        "Josh Helman"
+    ],
+    "Josh Helman": [
+        "Tom Hardy",
+        "Charlize Theron",
+        "Nicholas Hoult",
+        "Hugh Keays-Byrne"
+    ],
+    "Shameik Moore": [
+        "Jake Johnson",
+        "Hailee Steinfeld",
+        "Mahershala Ali",
+        "Brian Tyree Henry"
+    ],
+    "Jake Johnson": [
+        "Shameik Moore",
+        "Hailee Steinfeld",
+        "Mahershala Ali",
+        "Brian Tyree Henry"
+    ],
+    "Hailee Steinfeld": [
+        "Shameik Moore",
+        "Jake Johnson",
+        "Mahershala Ali",
+        "Brian Tyree Henry"
+    ],
+    "Mahershala Ali": [
+        "Shameik Moore",
+        "Jake Johnson",
+        "Hailee Steinfeld",
+        "Brian Tyree Henry"
+    ],
+    "Brian Tyree Henry": [
+        "Shameik Moore",
+        "Jake Johnson",
+        "Hailee Steinfeld",
+        "Mahershala Ali"
+    ]
+}
